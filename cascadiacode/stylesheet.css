@@ -1,1 +1,6 @@
-
+@font-face {
+font-family: "Cascadia Code";
+src: local('Cascadia Code'), local('CascadiaCode'), url("CascadiaCode.ttf") format('truetype');
+src: url('CascadiaCode.woff2') format('woff2'),
+url("CascadiaCode.otf") format("opentype");
+}
