@@ -5,7 +5,7 @@
     url('iconsax/iconsax.ttf') format('truetype'),
     url('iconsax/iconsax.woff2') format('woff2'),
     url('iconsax/iconsax.woff') format('woff'),
-    url('iconsax/iconsax.svg?yjegnn#iconsax') format('svg');
+    url('iconsax/iconsax.svg#iconsax') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
