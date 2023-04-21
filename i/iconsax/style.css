@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'iconsax';
-  src:  url('https://selkosaur.github.io/font/i/iconsax/iconsax.eot?yjegnn');
-  src:  url('https://selkosaur.github.io/font/i/iconsax/iconsax.eot?yjegnn#iefix') format('embedded-opentype'),
-    url('https://selkosaur.github.io/font/i/iconsax/iconsax.ttf?yjegnn') format('truetype'),
-    url('https://selkosaur.github.io/font/i/iconsax/iconsax.woff?yjegnn') format('woff'),
-    url('https://selkosaur.github.io/font/i/iconsax/iconsax.svg?yjegnn#iconsax') format('svg');
+  src:  url('https://selkosaur.github.io/font/i/iconsax/iconsax.eot');
+  src:  url('https://selkosaur.github.io/font/i/iconsax/iconsax.eot#iefix') format('embedded-opentype'),
+    url('https://selkosaur.github.io/font/i/iconsax/iconsax.ttf') format('truetype'),
+    url('https://selkosaur.github.io/font/i/iconsax/iconsax.woff') format('woff'),
+    url('https://selkosaur.github.io/font/i/iconsax/iconsax.svg#iconsax') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
