@@ -1,7 +1,7 @@
 @font-face {
   font-family: 'iconsax';
   src:  url('https://selkosaur.github.io/font/i/iconsax/iconsax.eot');
-  src:  url('https://selkosaur.github.io/font/i/iconsax/iconsax.eot#iefix') format('embedded-opentype'),
+  src:  url('https://selkosaur.github.io/font/i/iconsax/iconsax.eot?#iefix') format('embedded-opentype'),
     url('https://selkosaur.github.io/font/i/iconsax/iconsax.ttf') format('truetype'),
     url('https://selkosaur.github.io/font/i/iconsax/iconsax.woff') format('woff'),
     url('https://selkosaur.github.io/font/i/iconsax/iconsax.svg#iconsax') format('svg');
